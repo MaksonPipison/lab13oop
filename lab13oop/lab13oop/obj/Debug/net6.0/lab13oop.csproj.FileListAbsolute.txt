@@ -1,0 +1,15 @@
+C:\Users\User\source\git\lab13oop\lab13oop\bin\Debug\net6.0\lab13oop.exe
+C:\Users\User\source\git\lab13oop\lab13oop\bin\Debug\net6.0\lab13oop.deps.json
+C:\Users\User\source\git\lab13oop\lab13oop\bin\Debug\net6.0\lab13oop.runtimeconfig.json
+C:\Users\User\source\git\lab13oop\lab13oop\bin\Debug\net6.0\lab13oop.dll
+C:\Users\User\source\git\lab13oop\lab13oop\bin\Debug\net6.0\lab13oop.pdb
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.csproj.AssemblyReference.cache
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.AssemblyInfoInputs.cache
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.AssemblyInfo.cs
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.dll
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\refint\lab13oop.dll
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.pdb
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\lab13oop.genruntimeconfig.cache
+C:\Users\User\source\git\lab13oop\lab13oop\obj\Debug\net6.0\ref\lab13oop.dll
